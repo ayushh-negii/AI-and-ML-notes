@@ -13,4 +13,4 @@ Comment is a type of code which is shown but not processed.It is usually used to
 
 [Click here](https://colab.research.google.com/drive/116fsaUX25qlWjgRbwbrUCJQ3Tr1WTtWT)
 
-## Variables and Data Types
+[Click here](https://youtu.be/gfDE2a7MKjA?si=Hh_p-QIQEg77Jwk_&t=2196)
